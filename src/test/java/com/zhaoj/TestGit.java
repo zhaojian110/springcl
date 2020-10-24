@@ -12,6 +12,6 @@ public class TestGit {
     @Test
     public void test1(){
 
-
+        System.out.println("我改变了一次git");
     }
 }
