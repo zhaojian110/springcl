@@ -13,5 +13,7 @@ public class TestGit {
     public void test1(){
 
         System.out.println("我改变了一次git");
+        System.out.println("我改变了两次git");
+
     }
 }
